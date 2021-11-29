@@ -1,0 +1,77 @@
+QMenu::item:selected {
+    background-color:  rgb(233, 136, 66);
+}
+
+QPushButton::hover {
+     background-color: lightgray;
+     border: 2px solid rgb(233, 136, 66);
+}
+
+QPushButton::default {
+     background-color: lightgray;
+     border: 2px solid rgb(233, 136, 66);
+}
+
+QTreeView::item {
+    border-right: 0.5px solid #DFDCDC;
+}
+QTreeView::branch
+{
+    background: palette(base);
+}
+QTreeView::item:selected:active
+{
+    background-color:  rgb(233, 136, 66);
+}
+
+
+
+
+QComboBox QAbstractItemView {
+    selection-background-color: rgb(233, 136, 66);
+}
+
+QComboBox::hover {
+     background-color: lightgray;
+     border: 2px solid rgb(233, 136, 66);
+ }
+
+QComboBox:on {
+   background-color: lightgray;
+   border: 2px solid rgb(233, 136, 66);
+}
+
+
+
+
+
+
+
+
+
+
+QMenuBar::item:selected {
+    background: rgb(233, 136, 66);
+}
+
+QMenuBar::item:pressed {
+     background: rgb(233, 136, 66);
+}
+
+
+
+
+QMenu {
+    border: 0.5px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
